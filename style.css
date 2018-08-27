@@ -1,0 +1,32 @@
+/* style sheet only for text and color */
+#head1
+{
+    text-align: center;
+    color: lightblue;
+}
+#head2
+{
+    text-align: center;
+}
+#head3
+{
+    text-align: center;
+}
+#p1
+{
+    text-align: center;
+    color: black;
+}
+#p2
+{
+    text-align: center;
+    color: black;
+}
+#area1
+{
+    text-align: center;
+}
+body
+{
+    background-image: url("images/img2.jpg");
+}
