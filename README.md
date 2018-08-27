@@ -2,7 +2,7 @@
 
 This program uses Node.js to run with request from different API's while using a Javascript file to perform most of the work. This program can only work on Terminal with instruction provided in the main link on how to download and use Node.js. 
 
-[LIRI-Bot](file:///Users/muhammadawais/Desktop/LIRI-Bot/index.html)
+[LIRI-Bot](https://mawais54013.github.io/LIRI-Bot/)
 
 [Portfolio](https://mawais54013.github.io/Bootstrap-Portfolio/portfolio.html)
 
