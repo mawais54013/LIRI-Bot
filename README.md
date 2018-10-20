@@ -4,7 +4,7 @@ This program uses Node.js to run with request from different API's while using a
 
 [LIRI-Bot](https://mawais54013.github.io/LIRI-Bot/)
 
-[Portfolio](https://mawais54013.github.io/Bootstrap-Portfolio/portfolio.html)
+[Portfolio](https://mawais54013.github.io/New-Portfolio/)
 
 # Images
 
